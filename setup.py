@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name = "nconnect-aws-python-package",
+    name = "nConnectAWSPackage",
     version = "0.0.1",
     author = "Jess Tawat",
     author_email = "jess.tawat@nconnectgroup.com.com",
